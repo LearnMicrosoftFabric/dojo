@@ -1,21 +1,21 @@
-id,organization_id,accessibility,admin_emails,alternate_name,description,email,languages,latitude,longitude,name,short_desc,transportation,website,virtual
-1,2001,Yes,admin1@example.com,Main Office,Main headquarters for operations,info@mainoffice.com,English,40.7128,-74.0060,Main Office,Headquarters,Subway, https://mainoffice.com,No
-2,2002,No,admin2@example.com,West Branch,West coast branch office,contact@westbranch.com,English,34.0522,-118.2437,West Branch,Branch Office,Buses, https://westbranch.com,No
-3,2003,Yes,admin3@example.com,Chicago Hub,Midwest regional office,info@chicagohub.com,English,41.8781,-87.6298,Chicago Hub,Regional Office,Trains, https://chicagohub.com,No
-4,2004,Yes,admin4@example.com,Houston Center,South regional office,contact@houstoncenter.com,English,29.7604,-95.3698,Houston Center,Regional Office,Metro, https://houstoncenter.com,No
-5,2005,No,admin5@example.com,Phoenix Station,Southwest branch,info@phoenixstation.com,English,33.4484,-112.0740,Phoenix Station,Branch Office,Buses, https://phoenixstation.com,No
-6,2006,Yes,admin6@example.com,Philly Point,East regional office,contact@phillypoint.com,English,39.9526,-75.1652,Philly Point,Regional Office,Trains, https://phillypoint.com,No
-7,2007,Yes,admin7@example.com,San Antonio Base,South branch office,info@sanantoniobase.com,English,29.4241,-98.4936,San Antonio Base,Branch Office,Buses, https://sanantoniobase.com,No
-8,2008,No,admin8@example.com,San Diego Site,West branch,contact@sandiegosite.com,English,32.7157,-117.1611,San Diego Site,Branch Office,Trains, https://sandiegosite.com,No
-9,2009,Yes,admin9@example.com,Dallas Office,Central branch office,info@dallasoffice.com,English,32.7767,-96.7970,Dallas Office,Branch Office,Metro, https://dallasoffice.com,No
-10,2010,No,admin10@example.com,San Jose Location,West regional office,contact@sanjoselocation.com,English,37.3382,-121.8863,San Jose Location,Regional Office,Buses, https://sanjoselocation.com,No
-11,2011,Yes,admin11@example.com,Austin Office,Central branch,info@austinoffice.com,English,30.2672,-97.7431,Austin Office,Branch Office,Metro, https://austinoffice.com,No
-12,2012,Yes,admin12@example.com,Jacksonville Point,South regional office,contact@jacksonvillepoint.com,English,30.3322,-81.6557,Jacksonville Point,Regional Office,Buses, https://jacksonvillepoint.com,No
-13,2013,No,admin13@example.com,Columbus Site,Midwest branch,info@columbussite.com,English,39.9612,-82.9988,Columbus Site,Branch Office,Trains, https://columbussite.com,No
-14,2014,Yes,admin14@example.com,Fort Worth Center,Central branch,contact@fortworthcenter.com,English,32.7555,-97.3308,Fort Worth Center,Branch Office,Buses, https://fortworthcenter.com,No
-15,2015,No,admin15@example.com,Charlotte Hub,East branch office,info@charlottehub.com,English,35.2271,-80.8431,Charlotte Hub,Branch Office,Trains, https://charlottehub.com,No
-16,2016,Yes,admin16@example.com,Detroit Base,Midwest branch office,contact@detroitbase.com,English,42.3314,-83.0458,Detroit Base,Branch Office,Metro, https://detroitbase.com,No
-17,2017,Yes,admin17@example.com,El Paso Office,South branch office,info@elpasooffice.com,English,31.7619,-106.4850,El Paso Office,Branch Office,Buses, https://elpasooffice.com,No
-18,2018,No,admin18@example.com,Seattle Site,West regional office,contact@seattlesite.com,English,47.6062,-122.3321,Seattle Site,Regional Office,Trains, https://seattlesite.com,No
-19,2019,Yes,admin19@example.com,Denver Center,Central branch office,info@denvercenter.com,English,39.7392,-104.9903,Denver Center,Branch Office,Metro, https://denvercenter.com,No
-20,2020,No,admin20@example.com,Washington Hub,East regional office,contact@washingtonhub.com,English,38.9072,-77.0369,Washington Hub,Regional Office,Buses, https://washingtonhub.com,No
+id,organization_id,accessibility,admin_emails,alternate_name,description,email,name
+1,2001,Yes,admin1@example.com,Main Office,Main headquarters for operations,info@mainoffice.com,Main Office
+2,2002,No,admin2@example.com,West Branch,West coast branch office,contact@westbranch.com,West Branch
+3,2003,Yes,admin3@example.com,Chicago Hub,Midwest regional office,info@chicagohub.com,Chicago Hub
+4,2004,Yes,admin4@example.com,Houston Center,South regional office,contact@houstoncenter.com,Houston Center
+5,2005,No,admin5@example.com,Phoenix Station,Southwest branch,info@phoenixstation.com,Phoenix Station
+6,2006,Yes,admin6@example.com,Philly Point,East regional office,contact@phillypoint.com,Philly Point
+7,2007,Yes,admin7@example.com,San Antonio Base,South branch office,info@sanantoniobase.com,San Antonio Base
+8,2008,No,admin8@example.com,San Diego Site,West branch,contact@sandiegosite.com,San Diego Site
+9,2009,Yes,admin9@example.com,Dallas Office,Central branch office,info@dallasoffice.com,Dallas Office
+10,2010,No,admin10@example.com,San Jose Location,West regional office,contact@sanjoselocation.com,San Jose Location
+11,2011,Yes,admin11@example.com,Austin Office,Central branch,info@austinoffice.com,Austin Office
+12,2012,Yes,admin12@example.com,Jacksonville Point,South regional office,contact@jacksonvillepoint.com,Jacksonville Point
+13,2013,No,admin13@example.com,Columbus Site,Midwest branch,info@columbussite.com,Columbus Site
+14,2014,Yes,admin14@example.com,Fort Worth Center,Central branch,contact@fortworthcenter.com,Fort Worth Center
+15,2015,No,admin15@example.com,Charlotte Hub,East branch office,info@charlottehub.com,Charlotte Hub
+16,2016,Yes,admin16@example.com,Detroit Base,Midwest branch office,contact@detroitbase.com,Detroit Base
+17,2017,Yes,admin17@example.com,El Paso Office,South branch office,info@elpasooffice.com,El Paso Office
+18,2018,No,admin18@example.com,Seattle Site,West regional office,contact@seattlesite.com,Seattle Site
+19,2019,Yes,admin19@example.com,Denver Center,Central branch office,info@denvercenter.com,Denver Center
+20,2020,No,admin20@example.com,Washington Hub,East regional office,contact@washingtonhub.com,Washington Hub
