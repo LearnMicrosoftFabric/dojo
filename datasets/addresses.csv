@@ -1,22 +1,21 @@
 id,location_id,address_1,address_2,city,state_province,postal_code,country
-1,1,2600 Middlefield Road,,Redwood City,CA,94063,US
-2,2,24 Second Avenue,,San Mateo,CA,94401,US
-3,3,24 Second Avenue,,San Mateo,CA,94403,US
-4,4,24 Second Avenue,,San Mateo,CA,94401,US
-5,5,24 Second Avenue,,San Mateo,CA,94401,US
-6,6,800 Middle Avenue,,Menlo Park,CA,94025-9881,US
-7,7,500 Arbor Road,,Menlo Park,CA,94025,US
-8,8,800 Middle Avenue,,Menlo Park,CA,94025-9881,US
-9,9,2510 Middlefield Road,,Redwood City,CA,94063,US
-10,10,1044 Middlefield Road,,Redwood City,CA,94063,US
-11,11,2140 Euclid Avenue.,,Redwood City,CA,94061,US
-12,12,1044 Middlefield Road,2nd Floor,Redwood City,CA,94063,US
-13,13,399 Marine Parkway.,,Redwood City,CA,94065,US
-14,14,660 Veterans Blvd.,,Redwood City,CA,94063,US
-15,15,1500 Valencia Street,,San Francisco,CA,94110,US
-16,16,1161 South Bernardo,,Sunnyvale,CA,94087,US
-17,17,409 South Spruce Avenue,,South San Francisco,CA,94080,US
-18,18,114 Fifth Avenue,,Redwood City,CA,94063,US
-19,19,19 West 39th Avenue,,San Mateo,CA,94403,US
-20,21,123 El Camino Real,,Belmont,CA,94002,US
-21,22,2013 Avenue of the fellows,Suite 100,San Francisco,CA,94103,US
+1,1001,123 Main St,Apt 4B,New York,NY,10001,USA
+2,1002,456 Elm St,,Los Angeles,CA,90001,USA
+3,1003,789 Oak St,Suite 200,Chicago,IL,60601,USA
+4,1004,101 Maple St,,Houston,TX,77001,USA
+5,1005,202 Pine St,Floor 3,Phoenix,AZ,85001,USA
+6,1006,303 Cedar St,Unit 5,Philadelphia,PA,19101,USA
+7,1007,404 Birch St,Building A,San Antonio,TX,78201,USA
+8,1008,505 Walnut St,Room 2B,San Diego,CA,92101,USA
+9,1009,606 Ash St,,Dallas,TX,75201,USA
+10,1010,707 Cherry St,,San Jose,CA,95101,USA
+11,1011,808 Hickory St,Suite 500,Austin,TX,73301,USA
+12,1012,909 Fir St,,Jacksonville,FL,32201,USA
+13,1013,1010 Spruce St,Apt 7C,Columbus,OH,43201,USA
+14,1014,1111 Magnolia St,,Fort Worth,TX,76101,USA
+15,1015,1212 Cypress St,Unit 8,Charlotte,NC,28201,USA
+16,1016,1313 Palm St,Building B,Detroit,MI,48201,USA
+17,1017,1414 Redwood St,Floor 2,El Paso,TX,79901,USA
+18,1018,1515 Dogwood St,,Seattle,WA,98101,USA
+19,1019,1616 Cedar St,Suite 300,Denver,CO,80201,USA
+20,1020,1717 Maple St,Apt 9D,Washington,DC,20001,USA
