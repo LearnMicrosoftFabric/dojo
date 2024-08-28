@@ -1,18 +1,18 @@
-id,organization_id,accessibility,admin_emails,alternate_name,description,email,name
-1,2001,Yes,admin1@example.com,Main Office,Main headquarters for operations,info@mainoffice.com,Main Office
-2,2002,No,admin2@example.com,West Branch,West coast branch office,contact@westbranch.com,West Branch
-3,2003,Yes,admin3@example.com,Chicago Hub,Midwest regional office,info@chicagohub.com,Chicago Hub
-4,2004,Yes,admin4@example.com,Houston Center,South regional office,contact@houstoncenter.com,Houston Center
-5,2005,No,admin5@example.com,Phoenix Station,Southwest branch,info@phoenixstation.com,Phoenix Station
-6,2006,Yes,admin6@example.com,Philly Point,East regional office,contact@phillypoint.com,Philly Point
-10,2010,No,admin10@example.com,San Jose Location,West regional office,contact@sanjoselocation.com,San Jose Location
-11,2011,Yes,admin11@example.com,Austin Office,Central branch,info@austinoffice.com,Austin Office
-12,2012,Yes,admin12@example.com,Jacksonville Point,South regional office,contact@jacksonvillepoint.com,Jacksonville Point
-13,2013,No,admin13@example.com,Columbus Site,Midwest branch,info@columbussite.com,Columbus Site
-14,2014,Yes,admin14@example.com,Fort Worth Center,Central branch,contact@fortworthcenter.com,Fort Worth Center
-15,2015,No,admin15@example.com,Charlotte Hub,East branch office,info@charlottehub.com,Charlotte Hub
-16,2016,Yes,admin16@example.com,Detroit Base,Midwest branch office,contact@detroitbase.com,Detroit Base
-17,2017,Yes,admin17@example.com,El Paso Office,South branch office,info@elpasooffice.com,El Paso Office
-18,2018,No,admin18@example.com,Seattle Site,West regional office,contact@seattlesite.com,Seattle Site
-19,2019,Yes,admin19@example.com,Denver Center,Central branch office,info@denvercenter.com,Denver Center
-20,2020,No,admin20@example.com,Washington Hub,East regional office,contact@washingtonhub.com,Washington Hub
+id,organization_id,accessibility,admin_emails,alternate_name,description,email,location_name,manager_name
+1,2001,Yes,admin1@example.com,Main Office,Main headquarters for operations,info@mainoffice.com,Main Office,John Doe
+2,2002,No,admin2@example.com,West Branch,West coast branch office,contact@westbranch.com,West Branch,Jane Smith
+3,2003,Yes,admin3@example.com,Chicago Hub,Midwest regional office,info@chicagohub.com,Chicago Hub,Michael Brown
+4,2004,Yes,admin4@example.com,Houston Center,South regional office,contact@houstoncenter.com,Houston Center,Emily Davis
+5,2005,No,admin5@example.com,Phoenix Station,Southwest branch,info@phoenixstation.com,Phoenix Station,David Wilson
+6,2006,Yes,admin6@example.com,Philly Point,East regional office,contact@phillypoint.com,Philly Point,Sarah Johnson
+10,2010,No,admin10@example.com,San Jose Location,West regional office,contact@sanjoselocation.com,San Jose Location,Chris Lee
+11,2011,Yes,admin11@example.com,Austin Office,Central branch,info@austinoffice.com,Austin Office,Laura Martinez
+12,2012,Yes,admin12@example.com,Jacksonville Point,South regional office,contact@jacksonvillepoint.com,Jacksonville Point,James Anderson
+13,2013,No,admin13@example.com,Columbus Site,Midwest branch,info@columbussite.com,Columbus Site,Mary Thomas
+14,2014,Yes,admin14@example.com,Fort Worth Center,Central branch,contact@fortworthcenter.com,Fort Worth Center,Robert Jackson
+15,2015,No,admin15@example.com,Charlotte Hub,East branch office,info@charlottehub.com,Charlotte Hub,Patricia White
+16,2016,Yes,admin16@example.com,Detroit Base,Midwest branch office,contact@detroitbase.com,Detroit Base,Daniel Harris
+17,2017,Yes,admin17@example.com,El Paso Office,South branch office,info@elpasooffice.com,El Paso Office,Linda Clark
+18,2018,No,admin18@example.com,Seattle Site,West regional office,contact@seattlesite.com,Seattle Site,Matthew Lewis
+19,2019,Yes,admin19@example.com,Denver Center,Central branch office,info@denvercenter.com,Denver Center,Nancy Walker
+20,2020,No,admin20@example.com,Washington Hub,East regional office,contact@washingtonhub.com,Washington Hub,Steven Young
