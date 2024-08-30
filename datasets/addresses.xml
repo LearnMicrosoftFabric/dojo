@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>learn</Author>
+  <LastAuthor>william</LastAuthor>
+  <Created>2024-08-30T09:53:50Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>21450</WindowHeight>
+  <WindowWidth>32767</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="0"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="addresses2">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="21" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">id</Data></Cell>
+    <Cell><Data ss:Type="String">location_id</Data></Cell>
+    <Cell><Data ss:Type="String">address_1</Data></Cell>
+    <Cell><Data ss:Type="String">address_2</Data></Cell>
+    <Cell><Data ss:Type="String">city</Data></Cell>
+    <Cell><Data ss:Type="String">state_province</Data></Cell>
+    <Cell><Data ss:Type="String">postal_code</Data></Cell>
+    <Cell><Data ss:Type="String">country</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">1SF4</Data></Cell>
+    <Cell><Data ss:Type="String">123 Main St</Data></Cell>
+    <Cell><Data ss:Type="String">Apt 4B</Data></Cell>
+    <Cell><Data ss:Type="String">New York</Data></Cell>
+    <Cell><Data ss:Type="String">NY</Data></Cell>
+    <Cell><Data ss:Type="Number">10001</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">4EBY</Data></Cell>
+    <Cell><Data ss:Type="String">456 Elm St</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Los Angeles</Data></Cell>
+    <Cell><Data ss:Type="String">CA</Data></Cell>
+    <Cell><Data ss:Type="Number">90001</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">7DL2</Data></Cell>
+    <Cell><Data ss:Type="String">789 Oak St</Data></Cell>
+    <Cell><Data ss:Type="String">Suite 200</Data></Cell>
+    <Cell><Data ss:Type="String">Chicago</Data></Cell>
+    <Cell><Data ss:Type="String">IL</Data></Cell>
+    <Cell><Data ss:Type="Number">60601</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">44HP</Data></Cell>
+    <Cell><Data ss:Type="String">101 Maple St</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Houston</Data></Cell>
+    <Cell><Data ss:Type="String">TX</Data></Cell>
+    <Cell><Data ss:Type="Number">77001</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">1OK9</Data></Cell>
+    <Cell><Data ss:Type="String">202 Pine St</Data></Cell>
+    <Cell><Data ss:Type="String">Floor 3</Data></Cell>
+    <Cell><Data ss:Type="String">Phoenix</Data></Cell>
+    <Cell><Data ss:Type="String">AZ</Data></Cell>
+    <Cell><Data ss:Type="Number">85001</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">66C9</Data></Cell>
+    <Cell><Data ss:Type="String">303 Cedar St</Data></Cell>
+    <Cell><Data ss:Type="String">Unit 5</Data></Cell>
+    <Cell><Data ss:Type="String">Philadelphia</Data></Cell>
+    <Cell><Data ss:Type="String">PA</Data></Cell>
+    <Cell><Data ss:Type="Number">19101</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">4LK0</Data></Cell>
+    <Cell><Data ss:Type="String">404 Birch St</Data></Cell>
+    <Cell><Data ss:Type="String">Building A</Data></Cell>
+    <Cell><Data ss:Type="String">San Antonio</Data></Cell>
+    <Cell><Data ss:Type="String">TX</Data></Cell>
+    <Cell><Data ss:Type="Number">78201</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">B88N</Data></Cell>
+    <Cell><Data ss:Type="String">505 Walnut St</Data></Cell>
+    <Cell><Data ss:Type="String">Room 2B</Data></Cell>
+    <Cell><Data ss:Type="String">San Diego</Data></Cell>
+    <Cell><Data ss:Type="String">CA</Data></Cell>
+    <Cell><Data ss:Type="Number">92101</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">31EE</Data></Cell>
+    <Cell><Data ss:Type="String">606 Ash St</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Dallas</Data></Cell>
+    <Cell><Data ss:Type="String">TX</Data></Cell>
+    <Cell><Data ss:Type="Number">75201</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">23IO</Data></Cell>
+    <Cell><Data ss:Type="String">707 Cherry St</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">San Jose</Data></Cell>
+    <Cell><Data ss:Type="String">CA</Data></Cell>
+    <Cell><Data ss:Type="Number">95101</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">4JH6</Data></Cell>
+    <Cell><Data ss:Type="String">808 Hickory St</Data></Cell>
+    <Cell><Data ss:Type="String">Suite 500</Data></Cell>
+    <Cell><Data ss:Type="String">Austin</Data></Cell>
+    <Cell><Data ss:Type="String">TX</Data></Cell>
+    <Cell><Data ss:Type="Number">73301</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">2YY9</Data></Cell>
+    <Cell><Data ss:Type="String">909 Fir St</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Jacksonville</Data></Cell>
+    <Cell><Data ss:Type="String">FL</Data></Cell>
+    <Cell><Data ss:Type="Number">32201</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">33NB</Data></Cell>
+    <Cell><Data ss:Type="String">1010 Spruce St</Data></Cell>
+    <Cell><Data ss:Type="String">Apt 7C</Data></Cell>
+    <Cell><Data ss:Type="String">Columbus</Data></Cell>
+    <Cell><Data ss:Type="String">OH</Data></Cell>
+    <Cell><Data ss:Type="Number">43201</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">2LP0</Data></Cell>
+    <Cell><Data ss:Type="String">1111 Magnolia St</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Fort Worth</Data></Cell>
+    <Cell><Data ss:Type="String">TX</Data></Cell>
+    <Cell><Data ss:Type="Number">76101</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">BB6L</Data></Cell>
+    <Cell><Data ss:Type="String">1212 Cypress St</Data></Cell>
+    <Cell><Data ss:Type="String">Unit 8</Data></Cell>
+    <Cell><Data ss:Type="String">Charlotte</Data></Cell>
+    <Cell><Data ss:Type="String">NC</Data></Cell>
+    <Cell><Data ss:Type="Number">28201</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">ERT9</Data></Cell>
+    <Cell><Data ss:Type="String">1313 Palm St</Data></Cell>
+    <Cell><Data ss:Type="String">Building B</Data></Cell>
+    <Cell><Data ss:Type="String">Detroit</Data></Cell>
+    <Cell><Data ss:Type="String">MI</Data></Cell>
+    <Cell><Data ss:Type="Number">48201</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">TR0N</Data></Cell>
+    <Cell><Data ss:Type="String">1414 Redwood St</Data></Cell>
+    <Cell><Data ss:Type="String">Floor 2</Data></Cell>
+    <Cell><Data ss:Type="String">El Paso</Data></Cell>
+    <Cell><Data ss:Type="String">TX</Data></Cell>
+    <Cell><Data ss:Type="Number">79901</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">1SS4</Data></Cell>
+    <Cell><Data ss:Type="String">1515 Dogwood St</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="String">Seattle</Data></Cell>
+    <Cell><Data ss:Type="String">WA</Data></Cell>
+    <Cell><Data ss:Type="Number">98101</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">K30L</Data></Cell>
+    <Cell><Data ss:Type="String">1616 Cedar St</Data></Cell>
+    <Cell><Data ss:Type="String">Suite 300</Data></Cell>
+    <Cell><Data ss:Type="String">Denver</Data></Cell>
+    <Cell><Data ss:Type="String">CO</Data></Cell>
+    <Cell><Data ss:Type="Number">80201</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">29BC</Data></Cell>
+    <Cell><Data ss:Type="String">1717 Maple St</Data></Cell>
+    <Cell><Data ss:Type="String">Apt 9D</Data></Cell>
+    <Cell><Data ss:Type="String">Washington</Data></Cell>
+    <Cell><Data ss:Type="String">DC</Data></Cell>
+    <Cell><Data ss:Type="Number">20001</Data></Cell>
+    <Cell><Data ss:Type="String">USA</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R21C8</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
