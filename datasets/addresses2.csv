@@ -1,0 +1,21 @@
+id,location_id,address_1,address_2,city,state_province,postal_code,country
+1,1SF4,123 Main St,Apt 4B,New York,NY,10001,USA
+2,4EBY,456 Elm St,,Los Angeles,CA,90001,USA
+3,7DL2,789 Oak St,Suite 200,Chicago,IL,60601,USA
+4,44HP,101 Maple St,,Houston,TX,77001,USA
+5,1OK9,202 Pine St,Floor 3,Phoenix,AZ,85001,USA
+6,66C9,303 Cedar St,Unit 5,Philadelphia,PA,19101,USA
+7,4LK0,404 Birch St,Building A,San Antonio,TX,78201,USA
+8,B88N,505 Walnut St,Room 2B,San Diego,CA,92101,USA
+9,31EE,606 Ash St,,Dallas,TX,75201,USA
+10,23IO,707 Cherry St,,San Jose,CA,95101,USA
+11,4JH6,808 Hickory St,Suite 500,Austin,TX,73301,USA
+12,2YY9,909 Fir St,,Jacksonville,FL,32201,USA
+13,33NB,1010 Spruce St,Apt 7C,Columbus,OH,43201,USA
+14,2LP0,1111 Magnolia St,,Fort Worth,TX,76101,USA
+15,BB6L,1212 Cypress St,Unit 8,Charlotte,NC,28201,USA
+16,ERT9,1313 Palm St,Building B,Detroit,MI,48201,USA
+17,TR0N,1414 Redwood St,Floor 2,El Paso,TX,79901,USA
+18,1SS4,1515 Dogwood St,,Seattle,WA,98101,USA
+19,K30L,1616 Cedar St,Suite 300,Denver,CO,80201,USA
+20,29BC,1717 Maple St,Apt 9D,Washington,DC,20001,USA
