@@ -1,4 +1,4 @@
-id,location_id,address_1,address_2,city,state_province,postal_code,country
+﻿id,location_id,address_1,address_2,city,state_province,postal_code,country
 1,1SF4,123 Main St,Apt 4B,New York,NY,10001,USA
 2,4EBY,456 Elm St,,Los Angeles,CA,90001,USA
 3,7DL2,789 Oak St,Suite 200,Chicago,IL,60601,USA
@@ -19,3 +19,4 @@ id,location_id,address_1,address_2,city,state_province,postal_code,country
 18,1SS4,1515 Dogwood St,,Seattle,WA,98101,USA
 19,K30L,1616 Cedar St,Suite 300,Denver,CO,80201,USA
 20,29BC,1717 Maple St,Apt 9D,Washington,DC,20001,USA
+, ,,,,,,
